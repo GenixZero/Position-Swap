@@ -1,0 +1,10 @@
+main: me.genix.PosSwap
+name: PosSwap
+version: '1.0'
+description: Set a custom timer to swap positions with someone random on the server.
+author: GenixZero
+commands:
+  PosSwap:
+    description: Modify this plugin.
+    usage: /posswap
+    aliases: [positionswap, positionswapper]
